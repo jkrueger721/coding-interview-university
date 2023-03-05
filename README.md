@@ -649,14 +649,14 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [x] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-    - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
-    - [ ] Will not implement. Implementing with array is trivial
+    - [x] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [x] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
+    - [x] Will not implement. Implementing with array is trivial
 
 - ### Queue
     - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
