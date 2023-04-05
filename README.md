@@ -789,8 +789,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] get_height // returns the height in nodes (single node's height is 1)
         - [x] get_min   // returns the minimum value stored in the tree
         - [x] get_max   // returns the maximum value stored in the tree
-        - [ ] is_binary_search_tree
-        - [ ] delete_value
+        - [x] is_binary_search_tree
+        - [x] delete_value
         - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
